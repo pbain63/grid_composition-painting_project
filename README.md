@@ -1,5 +1,6 @@
-# grid_composition_project
-Recreated a painting with 'Grid'(HTML, CSS, Flex): "Composition XX(1920)" by Theo van Doesburg.
+# grid_composition_painting_project_large
+
+Recreated a large painting with 'Grid'(HTML, CSS, Flex): "Composition XX(1920)" by Theo van Doesburg.
 
 
 

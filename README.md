@@ -1,6 +1,6 @@
 # grid_composition-painting_project_large
 
-Recreated a large painting with 'Grid'(HTML, CSS): "Composition XX(1920)" by Theo van Doesburg.
+Recreated a large painting: "Composition XX(1920)" by Theo van Doesburg.
 
 
 
@@ -14,3 +14,5 @@ https://rawcdn.githack.com/pbain63/grid_composition-painting_project/e94272b1649
 References:
 
 https://www.museothyssen.org/en/collection/artists/doesburg-theo-van/composition-xx 
+
+Technology: HTML5, CSS, Grid

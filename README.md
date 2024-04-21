@@ -16,4 +16,4 @@ References:
 
 https://www.museothyssen.org/en/collection/artists/doesburg-theo-van/composition-xx 
 
-Technology: HTML5, CSS, Grid
+Technology: HTML5, CSS, Flex, Grid

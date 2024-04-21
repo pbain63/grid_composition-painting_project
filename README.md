@@ -1,12 +1,13 @@
-# grid_composition-painting_project_large
+# Grid_composition-painting_project_large
 
 Recreated a large painting: "Composition XX(1920)" by Theo van Doesburg.
 
 
 
-Preview:
+Live Preview Link:
 
-https://rawcdn.githack.com/pbain63/grid_composition-painting_project/e94272b16490369e5e550bd54b3c7b3e34f87c87/index.html
+
+https://pbain63.github.io/grid_composition-painting_project/
 
 
 

@@ -35,7 +35,9 @@ It’s an artistic experiment and an educational showcase for:
 
 ## Preview
 
-![Grid Composition Screenshot](assets/screenshot.png)
+| Desktop View                                                                      | Tablet View                                                                     | Mobile View                                                                     |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![Desktop](assets/screenshots/grid-composition-painting-project_desktop-view.png) | ![Tablet](assets/screenshots/grid-composition-painting-project_tablet-view.png) | ![Mobile](assets/screenshots/grid-composition-painting-project_mobile-view.png) |
 
 ---
 

@@ -52,10 +52,7 @@ It’s an artistic experiment and an educational showcase for:
 
 ### 1. Clone the Project
 
-`
-git clone https://github.com/pbain63/grid_composition-painting_project.git
-
-`
+`git clone https://github.com/pbain63/grid_composition-painting_project.git`
 
 ### 2. Open in Browser
 

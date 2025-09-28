@@ -96,9 +96,12 @@ Want to experiment or extend the artwork?
 
 <!-- https://www.museothyssen.org/en/collection/artists/doesburg-theo-van/composition-xx -->
 
-Artwork: _Composition XX (1920)_  
+Artwork: _Composition XX (1920)_
+
 Artist: [Theo van Doesburg (1883–1931)](https://en.wikipedia.org/wiki/Theo_van_Doesburg)
-Source: [Museo Nacional Thyssen-Bornemisza, Madrid](https://www.museothyssen.org/en/collection/artists/doesburg-theo-van/composition-xx)  
+
+Source: [Museo Nacional Thyssen-Bornemisza, Madrid](https://www.museothyssen.org/en/collection/artists/doesburg-theo-van/composition-xx)
+
 License: Public Domain
 
 ---
@@ -109,6 +112,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Created with 🎨 and ❤️ by [Prodip Bain](https://github.com/pbain63)
+Created with ❤️ by [Prodip Bain](https://github.com/pbain63)
 
 ---
